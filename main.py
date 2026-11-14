@@ -1,22 +1,23 @@
-#coding:latin-1
-import lzma;exec(lzma.decompress('''\x00\x00\x00ÿÿÿÿÿÿÿÿ\x004œÔ]¹ÛV%
-ÛÏÙwXi‹ü-SàêHş9¯˜3¸¯1›baGXôø©mgcuı#¢p„N«é"ÅpÆlW–µäæü,gDi×±V¬8ë£@Ó(ğn…y7‹Û5{ş;Îw^KÈº_¼Ûs6_BBù"+FŞî´Œf\\‡y®qgÙeâäGGĞqÇ ËÏ¿TAGÜ^—3ŠøCóHmÄ®ÂíË¸x¬³nf‘™¡‹ñòyl@)«®<GµHÜ«ªè—rjàEŞÓu'÷2R5&]OtŸY½‰É§$dÆ~¹ïIKCN‰å0Œ³uÔ„&~»ÿi/ÉÛsá>jx‰a2rßÎğA´öŠ}³òÊW\r«˜”xYMšW÷n|ùÑŸ-y+1Éå¨‘EÖ¿È8©qûÁ
-µ]Ä§¾Êrê™ÒÁ/5™}–±Ğ?ùZ«|£¨8õtÏ\\(kBµ›JÈQÈô¤,C?Hä³ö=8|ÎÇ~5û	qÁ ¨)•è¾ºîò¹$Šl%ûzàv–ï½~+Ë „ Ïq¢3kÛ{+ÖOügÀd‘Áü¢T›ÉMPšáíâ:+¿9u…Á³´²Óşßl"YMêK¢ş–¥%®U”š­¹Ae\r!Ò³³4Â{«ÃÑ'ú …0A(Ê¬ûÁ\\êÔ³Y{G&KzğoèµIæ×oŞix1*[³i`°d´>RuQÔŸšã„u‚g×¤Šº¤J³•Ùòê‹ª="÷¯.˜Ãc	ßà²«[VëÌŒãĞÒ,Ôıû¥òX/hƒ£V™:±İã¢¬×¢!ŒJĞ¤[™ƒĞ©ƒŸyu†dX±-“dTöÇ'¦ƒ´rö˜·‘"®‚ÕÕ	ğgiö¼qdİQ6Úê•/mS¤¶ï`	ó™>ÙÎXÁ¾…P'‹Wä´ÊÏ«sdZO¥FcnH©ï)4 ç.À(äDzjöËoµ8ßÅ|,‡¹:äôÈ.¾{LJãS^…ré<³ÏŠ.rXFz¥GÜêş“px¸->ÂP¹q›Ç–(šŸWùuÇ¬ ]±'wÄ4øºoAS&Mu±C ºxCŸ“şµ³¡ÖÓä‘
-7l²š‰úe´n#x¿4^¡ÜÚOÍµ™pÇdí’o_º(ä¡Û]8=È–ÒN÷8&BÍÄZ
-j…;èvÎ(ìé²Ÿ×IcâI®Aj
-ó¾\x00’u›X
-|C|Ï–«´	1ßSõmÅ%öºÆîì¦¢±ê,]ZÄw’ä¨VeºáÀ,õÛ]¨¶ùìkR8íòŸ`ÿÛI›Œ½T”ÌYkş×3ş\r®°§İÆ•ôGB?okÜI1|‡ÿ3~’Ï½µÅ½l>ÌY–{úÖætŸ{¾<0©xŸÆ›§q„kòkê
-ÈÍ•ø¬c@>Øáëg!Ã2j56üLñkÈh*E•æ|;«}wQ¢auÑÆñ®VÇ—^¼mB¹GÂ61ÚRÃWÑñCkM¿ıÔÒê³Gˆø«„["hü½rT`Å¼)U1‘+#ûwóB¬Î<´2¯ïN‹W~˜pô&-ğ&Ê`˜Óœ³ó§^ˆ¯Nšï°_™—B™¼p¡Õú¶a›QÍåëYëü*â™ä2ö€éå$ûU»™^õ#@?`Ë³zÏ¸üÕ®”WÁ½aqu4BBÊ¸~_÷_sÛ÷ğ£ì~¸ŸÚ¼Y63‡E,—™Î¹‡ôß‡x·Ïÿ¢:fï\x00óĞM½Hç_†lïaŞí¯ÔX«è`Fmà]ŒatLXF™ÔSØ/9ùC.zArôÈ+êmØ¡æĞ:©¶—ÉO:Y:ˆrŞo1vÍ¹iÉ·íÆ/¡È„¯ÄÛYƒÓ&i+çeåén-)ô´Tïõö›&¨iİ®`3Ÿ9x©vëêŒAŠ0e>è*Ò€üãU›		Ã7œ¡8Ñ 7ßœVlÖ@>€CÛõò€‹‡DXäıÚçP,‡K”öS(ë‡«<ß¸®<Š…·Yf¯5rß[PhdìšÏ‹
-˜•Y\x00ÄáB wºR1zğ½j"5VŞò½Õ;|°QßÉßj¶p%Æ.·åÍ¦›J£µøb\rÅí8
-|lŠ÷+Ì³}ß,^£Ç÷ÚXíZsùÈ7cÏ6ND÷,Ò¤èP¨IĞ›6Pâp›8–¶=|ƒØåjçh‚šEµÆûª6º¹	xë&Ì8ÀÉ‡––™B•<-9ÚŠ‡¾.¯Ívã•¼’İ, ”ÄĞ4İÌ;
-“2~®-]bt%6åÿ°g$Z©hÇğ{kË”å¤©â½ÖçX×ÍËóı°ÈûÉQÈ5…;£¾â¸CN+0a$/‚´Ù+ˆ}(ïšV«Õz{)8µÇ!¼¾^t¯YÚ±äOl$«÷]“ås=ıTîM”£ıP:ZşÿF¡Fv6¿ÂS,·b,3—z,ÔÅápìÌ óæğn€@šµŞ¸¨;ªÎ+İ-Òªu¿À«\r…u1Ğ…˜±t”{“ëÏº.ÿ\\È*å?ÅÊ\\²VDâCÊfÊ`[h%óÇ¶r…Œ~õ`bSµïÇÏ¨Í|G:ÿÅ\\ˆ74›Šö
-ç¥„4óÂh£Òƒ÷LyĞ®;ù.¦+ùÿ†pâ°˜„¼÷¼%¸ 1®õeqJv…›KnAÜ1²:
-©Ù%SİêŠedã¨fé¾òí‹‹eZz¼®Şñ¥àîç}¤B;_ŠÅ&¹ôœ—±~$‡åã‰\r~˜Ç‚£âòbÊ{.8L)k•Öèş+‹ÍÉ¸ÄúíÕöšSgïw©£Ôˆ[k½yK‚è}z/ÂOXLæ2½÷´kéŸ@ü&‰>oMÒï¯nƒ×>+E¹7X‘yØ	elÔNØDK¥§­MÙÍPqp5\\¦Øu„oŒ­ÙSà-ûÌ}®5¶eÁbŞX›–­azÊú¨HGPW‘Lçi£¾øHCX¦™,ıÉ~A‹³^‹,¤Ér‡Ò\r…İOpVÖå¥¸[€ ~Í^"MjŞN¶+o/¢)|îÅŞB„c¹¨ƒ[7’µey¬¬¿d§§~?¤…=5Á‰=
-çæêŠ\r´6:Å—ûvŞb²T—0·v™ò-NNŸ®2Æ3«DŠÃˆ‹‘ı¿±è›ÓV’#½›HÚ½_æs¾!\rÓqÿ*ZO‡'‚[K‡…;•ùÎJ¼ôâ¨cîTøÜ8şEá©É%g¶t/ï•+¡Q˜ËĞ4(†ZT>´gü¼§ñ?qÈéKéÚÜ"”›\r¤IÔ?‡PíbY0
-\r!T\r¥)›êsÿ4`ÎnE'#y‡Ó$oD¬;Fio‰Yfš(2—zWˆ1¡Àp‰òykj|49 ¾5iY¶Y’PGT[7lDô3]nzéØÏ§ßcÆÜ=r„¿:êÄÏpQQÊt<j{ˆáln°@4¥4Ê¶ˆÙÃ<>GÅ:í4ŠkëLgYÏñqÉ\rt¦[¢1¯øcõ@9’üè®:Œ°´;[-‰x—ä{Ìv„¦%ãëáÈ+¼0Ô®K®©GŠ¾b5ßÄ½?<™ÎìëŸõïå;F–ahjş¨—[,¸¥½u¹¥ª5â°ìŠ$Æ§ÿHoVûqôÏ±£QÌÅ5ªÙtË8óé;Ï€ÿŠ'Ñÿ*ÿ5§`|Ä¨Ç¸8ãÖÅÚ£xKõ[ÔybRQOÚb2slpÃıI¡g—³xìP¤y¬â¿´"`Ğïl¤bñÄoü£kC*f·.ê`Ø½#ÒB=¦ìÓ¯d&[Õ1fN‰
-8èØ:Áïo62)
-ğ_êiÛdÇoH¹»M÷)²À5£2'}C¤ØüDBèÃş‘4ß\\ù©c”gâ¹+/&û`7|ÆHÑÿdÊ\\Âyn05KÈqÌ‡áZ|şÛñìÔ³öãšDˆVõ9öóÛpÖn,™ÇQE¤i¹À:B™2™ÆH%N3ø:ÜÖF[S\\áD#N¬íƒP]Q¦tÊ•°’áÈ(8C€
-5ö*c!L:+.¼Ü»•Ç”‡â­çÈvı¡$ƒÅ®:Dİk«0ä;èŠâRÂ»ÒÛ89ÀF2¸À™·–Ö40†‡ÛPg6½É P(ëG
-Š±C@§4¦øüÀÅ‚Ùb@÷ÜĞÊ^@Í{Ëèú4Élí"tî}3¤†~®@ÉtÖ€Û)Ævò€–ûÏŸ]e•ĞWP'”™7Š™æµÄŸí¥0{(¤­ï]š´2â<ğŞì§t´ÿÔ­éöäKìÀ¦çIŠÅjbéˆğl1÷ç¼—t™_EĞ»½Éç©ìSâÆŞ¬”A¤êğ¯¤»úbã ¥ã t¼iRáˆ4³È¬VÉá¿Á~À²7Úµqf9œxû²¸5(%@¿WéiÙRÙ>EÙ=ÎÕ=(`\r\rAÜke?¿Ãó»–ÓzÁe÷:N³-!Ú¬9ÔÓˆeuat’i˜4ˆÒo¨p	/†9Ry>Iˆ)n<
-H*.x±ó_àV—l¿@AV‘Ç¥öE´t-_¤'ÎØş·ì¶aR€¥T-(t®#yçGşåt¥~û¼‡›„·5'Ò%:šœuSüQ/ËÉ(&ì¢YOº£Fòh‚.Ò]JŸeÌt©¼Ü­P3ïë· ÑÛNL3ŒºyªWÚ„ë±ZÓ“:B$¹øCTÑùæºøÒ_9løX[¿ï‹q»ÅY±w¶,í;ËÎ.£\\0©¼JÀ^€(7@gkòi}Ëü[ã€„œcv›DDƒàòTå‚:
-º$ˆ‰X WŸl’ö>¸„ÙçÕ·¨Ë#Ş©h–•û§ØÖÌÿğ„áÍŠĞê•¹¾{ø¸Öâ½ø‘&Á\x00ÿB„é‹|×NqŠ?õ|yqƒWùƒpf€ˆ³ÕnLšmU5›ÆéÂ«¯O±t1sw„’°Í¦½V©NÍ¬çŒM³q©^|;˜ç.|Ş^ÖIr/—ä‰óò\x00º4‘¹+ŞéËáøs[î®ı&µ“Ë®\x00A\rÆ±1˜N›ë£ÍTNÚLÿüêT¾'''.encode('latin-1')))
+# tiny-chess â€” entrypoint.
+#
+# The engine ships as an lzma-compressed payload in engine.lzma
+# (3,927 bytes): its minified source is 10,614 bytes, far over the
+# 4,096-byte per-file limit, and the rules expressly allow an lzma
+# payload plus its unpacker. This loader is the unpacker: it
+# decompresses the payload and executes it in this module's own
+# namespace, exactly as if the engine source were written here.
+import lzma
+import os
+
+_HERE = os.path.dirname(os.path.abspath(__file__))
+
+def _load_engine() -> bytes:
+    """Read and decompress the engine payload shipped beside this file."""
+    with open(os.path.join(_HERE, "engine.lzma"), "rb") as f:
+        return lzma.decompress(f.read())
+
+
+# Execute the engine in this module's namespace: names it defines
+# (the board, the search, the protocol client) become this module's
+# own, and __name__ is "__main__" exactly when run as the entrypoint.
+exec(compile(_load_engine(), "engine.py", "exec"), globals())
